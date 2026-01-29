@@ -1,0 +1,38 @@
+2026-01-29 13:59:47,143 INFO SampleTest [main] Драйвер стартовал!
+2026-01-29 13:59:47,480 INFO SampleTest [main] Открыта страница DNS - https://www.dns-shop.ru/
+2026-01-29 13:59:47,728 INFO SampleTest [main] Драйвер остановлен!
+2026-01-29 14:00:02,636 INFO SampleTest [main] Драйвер стартовал!
+2026-01-29 14:00:02,945 INFO SampleTest [main] Открыта страница DNS - https://www.dns-shop.ru/
+2026-01-29 14:00:03,096 INFO SampleTest [main] Драйвер остановлен!
+2026-01-29 14:06:00,528 INFO i.g.b.w.c.ResolutionCache [main] Clearing WebDriverManager resolution cache
+2026-01-29 14:06:01,408 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 144.0.7559.109 (resolved driver for Chrome 144)
+2026-01-29 14:06:01,594 INFO i.g.b.w.o.Downloader [main] Downloading https://storage.googleapis.com/chrome-for-testing-public/144.0.7559.109/win64/chromedriver-win64.zip
+2026-01-29 14:06:05,483 INFO i.g.b.w.o.Downloader [main] Extracting driver from compressed file chromedriver-win64.zip
+2026-01-29 14:06:05,624 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\M\.cache\selenium\chromedriver\win64\144.0.7559.109\chromedriver.exe
+2026-01-29 14:06:06,630 INFO SampleTest [main] Драйвер стартовал!
+2026-01-29 14:06:07,033 INFO SampleTest [main] Открыта страница DNS - https://www.dns-shop.ru/
+2026-01-29 14:06:07,254 INFO SampleTest [main] Драйвер остановлен!
+2026-01-29 14:07:09,098 INFO i.g.b.w.c.ResolutionCache [main] Clearing WebDriverManager resolution cache
+2026-01-29 14:07:10,211 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 144.0.7559.109 (resolved driver for Chrome 144)
+2026-01-29 14:07:10,268 INFO i.g.b.w.o.Downloader [main] Downloading https://storage.googleapis.com/chrome-for-testing-public/144.0.7559.109/win64/chromedriver-win64.zip
+2026-01-29 14:07:15,520 INFO i.g.b.w.o.Downloader [main] Extracting driver from compressed file chromedriver-win64.zip
+2026-01-29 14:07:15,660 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\M\.cache\selenium\chromedriver\win64\144.0.7559.109\chromedriver.exe
+2026-01-29 14:07:16,647 INFO SampleTest [main] Драйвер стартовал!
+2026-01-29 14:07:17,006 INFO SampleTest [main] Открыта страница DNS - https://www.dns-shop.ru/
+2026-01-29 14:07:17,154 INFO SampleTest [main] Драйвер остановлен!
+2026-01-29 14:08:03,699 INFO i.g.b.w.c.ResolutionCache [main] Clearing WebDriverManager resolution cache
+2026-01-29 14:08:04,656 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 144.0.7559.109 (resolved driver for Chrome 144)
+2026-01-29 14:08:04,711 INFO i.g.b.w.o.Downloader [main] Downloading https://storage.googleapis.com/chrome-for-testing-public/144.0.7559.109/win64/chromedriver-win64.zip
+2026-01-29 14:08:08,810 INFO i.g.b.w.o.Downloader [main] Extracting driver from compressed file chromedriver-win64.zip
+2026-01-29 14:08:08,952 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\M\.cache\selenium\chromedriver\win64\144.0.7559.109\chromedriver.exe
+2026-01-29 14:08:09,982 INFO SampleTest [main] Драйвер стартовал!
+2026-01-29 14:08:10,314 INFO SampleTest [main] Открыта страница DNS - https://www.dns-shop.ru/
+2026-01-29 14:08:10,466 INFO SampleTest [main] Драйвер остановлен!
+2026-01-29 14:09:49,646 INFO i.g.b.w.c.ResolutionCache [main] Clearing WebDriverManager resolution cache
+2026-01-29 14:09:50,730 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 144.0.7559.109 (resolved driver for Chrome 144)
+2026-01-29 14:09:50,791 INFO i.g.b.w.o.Downloader [main] Downloading https://storage.googleapis.com/chrome-for-testing-public/144.0.7559.109/win64/chromedriver-win64.zip
+2026-01-29 14:09:55,632 INFO i.g.b.w.o.Downloader [main] Extracting driver from compressed file chromedriver-win64.zip
+2026-01-29 14:09:55,782 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\M\.cache\selenium\chromedriver\win64\144.0.7559.109\chromedriver.exe
+2026-01-29 14:09:56,849 INFO SampleTest [main] Драйвер стартовал!
+2026-01-29 14:09:57,386 INFO SampleTest [main] Открыта страница DNS - https://www.dns-shop.ru/
+2026-01-29 14:09:57,530 INFO SampleTest [main] Драйвер остановлен!
