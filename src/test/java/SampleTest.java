@@ -12,18 +12,12 @@ public class SampleTest {
     protected static WebDriver driver;
     private Logger logger = LogManager.getLogger(SampleTest.class);
 
+    String env = System.getProperty("browser", "chrome");
+
+
     @BeforeEach
     public void setUp() {
-        WebDriverManager.chromedriver()
-                .clearDriverCache()
-                .clearResolutionCache()
-                .setup();
-
-        ChromeOptions options = new ChromeOptions();
-        options.addArguments("--remote-allow-origins=*");
-        options.addArguments("--no-sandbox", "--disable-dev-shm-usage");
-
-        driver = new ChromeDriver();
+        driver = WebDriverFactory.getDriver(env);
         logger.info("Драйвер стартовал!");
     }
 
